@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+.clock {
+  border: solid 1px black;
+  border-radius: 5px;
+  font-size: 30px;
+  margin: auto;
+  width: 250px;
+}
